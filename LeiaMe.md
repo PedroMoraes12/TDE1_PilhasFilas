@@ -23,7 +23,7 @@ Uso apenas de tipos primitivos e classes próprias
 
 1. **Pilha Dinâmica:**
    - Abra o arquivo `PilhaDinamica.java`
-   - Clique com botão direito -> `Run File
+   - Clique com botão direito -> `Run File`
 
 2. **Fila Dinâmica:**
    - Abra o arquivo `FilaDinamica.java`
