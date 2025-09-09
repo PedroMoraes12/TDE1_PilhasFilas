@@ -1,9 +1,7 @@
 # TDE 1 - Manipulação de Pilhas e Filas Dinâmicas
 
 ## Integrantes do Grupo
-- [Alan Filipe Reginato de França Santos]
-- [Lucas Ferraz dos Santos] 
-- [Pedro Henrique Moraes]
+- Pedro Henrique Moraes
 
 ## Requisitos Atendidos
 Estruturas dinâmicas com lista encadeada  
