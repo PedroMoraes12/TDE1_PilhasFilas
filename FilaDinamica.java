@@ -1,4 +1,3 @@
-// primeiro elemento inserido e o primeiro a ser removido
 package tdel_pilhasfilas;
 
 import java.util.Scanner;
@@ -99,4 +98,5 @@ public class FilaDinamica {
         
         scanner.close();
     }
+
 }
